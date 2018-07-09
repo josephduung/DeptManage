@@ -1,3 +1,3 @@
-# ËµÃ÷
+ï»¿# è¯´æ˜Ž
 
-ÕâÊÇÒ»¸ö¸öÈËÏîÄ¿£¬ÓÃÓÚÑ§Ï°£¬Ëü»ùÓÚABP/.NET Core/Angular¡£
+è¿™æ˜¯ä¸€ä¸ªä¸ªäººé¡¹ç›®ï¼Œç”¨äºŽå­¦ä¹ ï¼Œå®ƒåŸºäºŽABP/.NET Core/Angularã€‚
