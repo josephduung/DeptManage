@@ -13,4 +13,7 @@
   <ItemGroup>
     <ProjectReference Include="..\DeptManage.Core\DeptManage.Core.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="HR\" />
+  </ItemGroup>
 </Project>
